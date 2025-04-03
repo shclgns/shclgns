@@ -9,19 +9,20 @@
 
 ## 🌟 Tech Stack 🌟
 
-**Languages & Tools**  
-Python · SQL · Markdown · Git · Jupyter Notebook
-
-**Data Analysis**  
-Pandas · Numpy · Scikit-learn · Seaborn · Plotly · Tableau · Excel
-
-**Machine Learning**  
-Random Forest · XGBoost · Clustering · Time Series
-
-**ETC**  
-Notion · Slack · PowerPoint
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shclgns&layout=compact&theme=radical)](https://github.com/shclgns)
+
+---
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpibWlrMHdoOGZtcTYzMGRtNXR1dW9lczJ3cnl3dTFyajZ6b2E4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="150"/>
 
 ## 📌 Pinned Projects
 
