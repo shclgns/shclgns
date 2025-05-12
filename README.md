@@ -54,5 +54,5 @@
 
 - 📮 Email: clgns963@naver.com
 - 📝 Blog: [노치훈의 데이터 노트](https://blog.naver.com/codecraft_ch)  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/%EB%8F%84%EB%A6%AC-%EB%A7%9B-45a701349/](https://www.linkedin.com/in/%EC%B9%98%ED%9B%88-%EB%85%B8-45a701349/))
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/%EC%B9%98%ED%9B%88-%EB%85%B8-45a701349/)
 
